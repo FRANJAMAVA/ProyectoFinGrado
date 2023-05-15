@@ -1,0 +1,59 @@
+* {
+	text-align: center;
+
+}
+body{
+	color:red;
+}
+
+input {
+	background-color: blue;
+	color: white;
+	height: 25px;
+	width: 150px;
+}
+
+input#registrarse {
+	background-color: yellow;
+	color: blue;
+	height: 25px;
+	width: 250px;
+}
+
+input#iniciarsesion {
+	background-color: yellow;
+	color: blue;
+	height: 25px;
+	width: 250px;
+}
+
+input#entrar {
+	background-color: yellow;
+	color: blue;
+	height: 25px;
+	width: 250px;
+}
+
+input#volver {
+	background-color: yellow;
+	color: blue;
+	height: 25px;
+	width: 250px;
+}
+
+input:focus, select:focus {
+  background-color: orange;
+}
+
+input:hover, select:hover {
+  background-color: skyblue;
+}
+
+table, th, td {
+  border: 1px solid blue;
+}
+
+
+/*body {
+	background-color: #CDCDCD;
+}*/

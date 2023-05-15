@@ -1,0 +1,1 @@
+<!--<img src="../image/"<?php echo $value ?>" height ='250px' width='150'" >-->
